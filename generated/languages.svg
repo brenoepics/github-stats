@@ -104,7 +104,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #f1e05a;width: 41.186%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 20.238%;" class="progress-item"></span><span style="background-color: #41b883;width: 17.184%;" class="progress-item"></span><span style="background-color: #b07219;width: 11.585%;" class="progress-item"></span><span style="background-color: #c6538c;width: 5.552%;" class="progress-item"></span><span style="background-color: #2b7489;width: 3.612%;" class="progress-item"></span><span style="background-color: #555555;width: 0.643%;" class="progress-item"></span>
+<span style="background-color: #f1e05a;width: 41.185%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 20.237%;" class="progress-item"></span><span style="background-color: #41b883;width: 17.186%;" class="progress-item"></span><span style="background-color: #b07219;width: 11.585%;" class="progress-item"></span><span style="background-color: #c6538c;width: 5.552%;" class="progress-item"></span><span style="background-color: #2b7489;width: 3.612%;" class="progress-item"></span><span style="background-color: #555555;width: 0.643%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -134,7 +134,7 @@ fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 viewBox="0 0 16 16" version="1.1" width="16" height="16"><path
 fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path></svg>
 <span class="lang">Vue</span>
-<span class="percent">17.18%</span>
+<span class="percent">17.19%</span>
 </li>
 
 
