@@ -56,8 +56,12 @@ jobs:
         EXCLUDED: ${{ secrets.EXCLUDED }}
         EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
         EXCLUDE_FORKED_REPOS: true
-
-    # Commits all changed files to the repository
+    - name: generate-snake-game-from-github-contribution-grid
+      uses: Platane/snk@v0.0.18
+      with:
+         github_user_name: ${{ github.repository_owner }}
+         gif_out_path: generated/github-snake.gif
+         svg_out_path: generated/github-snake.svg
     - name: Commit to the repo
       run: |
         git config --global user.name "jstrieb/github-stats"
