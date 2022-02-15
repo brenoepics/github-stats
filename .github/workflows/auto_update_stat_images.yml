@@ -72,6 +72,12 @@ jobs:
         MORE_REPOS: ${{ secrets.MORE_REPOS }}
         ONLY_INCLUDED: ${{ secrets.ONLY_INCLUDED }}
 
+    - name: generate-snake-game-from-github-contribution-grid
+      uses: Platane/snk@v0.0.18
+      with:
+         github_user_name: ${{ github.repository_owner }}
+         gif_out_path: generated_images/github-snake.gif
+         svg_out_path: generated_images/github-snake.svg
     # Commits all changed files to the repository
     - name: Commit to the repo
       run: |
