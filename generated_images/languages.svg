@@ -7,13 +7,13 @@ svg {
 }
 
 #background {
-  width: calc(100% - 10px);
-  height: calc(100% - 10px);
-  fill: #00000000;
-  stroke: #87cefa;
-  stroke-width: 3px;
-  rx: 6px;
-  ry: 6px;
+    width: calc(100% - 10px);
+    height: calc(100% - 10px);
+    fill: #00000000;
+    stroke: #444c56;
+    stroke-width: 1px;
+    rx: 6px;
+    ry: 6px;
 }
 
 foreignObject {
@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #f1e05a;width: 36.66133%;" class="progress-item"></span><span style="background-color: #2b7489;width: 20.70657%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 17.15873%;" class="progress-item"></span><span style="background-color: #41b883;width: 11.10848%;" class="progress-item"></span><span style="background-color: #b07219;width: 9.19938%;" class="progress-item"></span><span style="background-color: #c6538c;width: 4.78026%;" class="progress-item"></span><span style="background-color: #555555;width: 0.38525%;" class="progress-item"></span>
+<span style="background-color: #f1e05a;width: 36.62826%;" class="progress-item"></span><span style="background-color: #2b7489;width: 20.69196%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 17.14325%;" class="progress-item"></span><span style="background-color: #41b883;width: 11.10540%;" class="progress-item"></span><span style="background-color: #b07219;width: 9.27028%;" class="progress-item"></span><span style="background-color: #c6538c;width: 4.77594%;" class="progress-item"></span><span style="background-color: #555555;width: 0.38490%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -155,7 +155,7 @@ div.ellipsis {
                         JavaScript
                     </span>
                     <span class="percent">
-                        36.661%
+                        36.628%
                     </span>
             </li>
             <li style="animation-delay: 150ms;">
@@ -174,7 +174,7 @@ div.ellipsis {
                         TypeScript
                     </span>
                     <span class="percent">
-                        20.707%
+                        20.692%
                     </span>
             </li>
             <li style="animation-delay: 300ms;">
@@ -193,7 +193,7 @@ div.ellipsis {
                         PHP
                     </span>
                     <span class="percent">
-                        17.159%
+                        17.143%
                     </span>
             </li>
             <li style="animation-delay: 450ms;">
@@ -212,7 +212,7 @@ div.ellipsis {
                         Vue
                     </span>
                     <span class="percent">
-                        11.108%
+                        11.105%
                     </span>
             </li>
             <li style="animation-delay: 600ms;">
@@ -231,7 +231,7 @@ div.ellipsis {
                         Java
                     </span>
                     <span class="percent">
-                        9.199%
+                        9.270%
                     </span>
             </li>
             <li style="animation-delay: 750ms;">
@@ -250,7 +250,7 @@ div.ellipsis {
                         SCSS
                     </span>
                     <span class="percent">
-                        4.780%
+                        4.776%
                     </span>
             </li>
             <li style="animation-delay: 900ms;">
