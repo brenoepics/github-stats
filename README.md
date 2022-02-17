@@ -16,7 +16,7 @@ Regardless of which repositories are included, the generated `All-time GitHub co
 will always represent **all** GitHub contributions by the user.
 
 It seems that view and clone statistical data for repositories that an authenticated user neither owns nor has 
-collaborative access to are not included in the generated statistics being visualized.
+collaborative access to are not included in the generated statistics being visualized. 
 
 It also seems that statistics for contributions to GitHub repositories that an authenticated user neither owns nor has collaborative access to possibly only includes repositories that exist on GitHub before the contributions do. Contribution statistics for repositories uploaded to GitHub after the contributions are made, so long that the configured commit email is associated with the user's GitHub account, can be included in the statistic visualizations by manually including the repository using the MORE_REPOS secret option in [Statistics Options](#statistics-options).
 
