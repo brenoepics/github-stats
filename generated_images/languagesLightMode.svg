@@ -103,7 +103,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #f1e05a;width: 36.58036%;" class="progress-item"></span><span style="background-color: #2b7489;width: 20.69998%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 17.12084%;" class="progress-item"></span><span style="background-color: #41b883;width: 11.14408%;" class="progress-item"></span><span style="background-color: #b07219;width: 9.30064%;" class="progress-item"></span><span style="background-color: #c6538c;width: 4.76970%;" class="progress-item"></span><span style="background-color: #555555;width: 0.38440%;" class="progress-item"></span>
+<span style="background-color: #f1e05a;width: 36.58047%;" class="progress-item"></span><span style="background-color: #2b7489;width: 20.70008%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 17.12089%;" class="progress-item"></span><span style="background-color: #41b883;width: 11.14412%;" class="progress-item"></span><span style="background-color: #b07219;width: 9.30034%;" class="progress-item"></span><span style="background-color: #c6538c;width: 4.76971%;" class="progress-item"></span><span style="background-color: #555555;width: 0.38440%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -202,7 +202,7 @@ div.ellipsis {
                         Java
                     </span>
                     <span class="percent">
-                        9.301%
+                        9.300%
                     </span>
             </li>
             <li style="animation-delay: 750ms;">
