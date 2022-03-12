@@ -58,11 +58,13 @@ tr {
 
 @media (prefers-color-scheme: light) {
   th {
-    color: #0969da;
+    color: rgb(0 0 0);
+    mix-blend-mode: difference;
   }
 
   td {
-    color: #233;
+    color: rgb(0 0 0);
+    mix-blend-mode: difference;
   }
 
   .octicon {
@@ -72,11 +74,13 @@ tr {
 
 @media (prefers-color-scheme: dark) {
   th {
-    color: #fffff;
+    color: rgb(0 0 0);
+    mix-blend-mode: difference;
   }
 
   td {
-    color: #fffff;
+    color: rgb(0 0 0);
+    mix-blend-mode: difference;
   }
 
   .octicon {
