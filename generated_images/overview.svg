@@ -60,13 +60,11 @@ tr {
   th {
     color: rgb(0 0 0);
     mix-blend-mode: difference;
-  filter: invert(100%);
   }
 
   td {
     color: rgb(0 0 0);
     mix-blend-mode: difference;
-  filter: invert(100%);
   }
 
   .octicon {
@@ -76,12 +74,12 @@ tr {
 
 @media (prefers-color-scheme: dark) {
   th {
-    color: rgb(0 0 0);
+    color: rgb(255 255 255);
     mix-blend-mode: difference;
   }
 
   td {
-    color: rgb(0 0 0);
+    color: rgb(255 255 255);
     mix-blend-mode: difference;
   }
 
