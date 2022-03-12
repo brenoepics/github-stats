@@ -72,11 +72,11 @@ tr {
 
 @media (prefers-color-scheme: dark) {
   th {
-    color: #539bf5;
+    color: #fffff;
   }
 
   td {
-    color: #adbac7;
+    color: #fffff;
   }
 
   .octicon {
