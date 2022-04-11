@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #f1e05a;width: 43.33513%;" class="progress-item"></span><span style="background-color: #b07219;width: 28.36893%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 10.57490%;" class="progress-item"></span><span style="background-color: #2b7489;width: 9.88819%;" class="progress-item"></span><span style="background-color: #41b883;width: 5.36805%;" class="progress-item"></span><span style="background-color: #c6538c;width: 2.27815%;" class="progress-item"></span><span style="background-color: #555555;width: 0.18360%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.00306%;" class="progress-item"></span>
+<span style="background-color: #f1e05a;width: 43.33476%;" class="progress-item"></span><span style="background-color: #b07219;width: 28.36869%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 10.57481%;" class="progress-item"></span><span style="background-color: #2b7489;width: 9.88811%;" class="progress-item"></span><span style="background-color: #41b883;width: 5.36885%;" class="progress-item"></span><span style="background-color: #c6538c;width: 2.27813%;" class="progress-item"></span><span style="background-color: #555555;width: 0.18360%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.00306%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -231,7 +231,7 @@ div.ellipsis {
                         Vue
                     </span>
                     <span class="percent">
-                        5.368%
+                        5.369%
                     </span>
             </li>
             <li style="animation-delay: 750ms;">
