@@ -132,7 +132,7 @@ div.ellipsis {
 
 <div>
 <span class="progress">
-<span style="background-color: #b07219;width: 59.03206%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 21.02087%;" class="progress-item"></span><span style="background-color: #3178c6;width: 9.93357%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 5.13106%;" class="progress-item"></span><span style="background-color: #41b883;width: 2.66707%;" class="progress-item"></span><span style="background-color: #c6538c;width: 2.11892%;" class="progress-item"></span><span style="background-color: #555555;width: 0.08904%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.00741%;" class="progress-item"></span>
+<span style="background-color: #b07219;width: 59.02977%;" class="progress-item"></span><span style="background-color: #f1e05a;width: 21.02106%;" class="progress-item"></span><span style="background-color: #3178c6;width: 9.93606%;" class="progress-item"></span><span style="background-color: #4F5D95;width: 5.13086%;" class="progress-item"></span><span style="background-color: #41b883;width: 2.66697%;" class="progress-item"></span><span style="background-color: #c6538c;width: 2.11883%;" class="progress-item"></span><span style="background-color: #555555;width: 0.08904%;" class="progress-item"></span><span style="background-color: #384d54;width: 0.00741%;" class="progress-item"></span>
 </span>
 </div>
 
@@ -155,7 +155,7 @@ div.ellipsis {
                         Java
                     </span>
                     <span class="percent">
-                        59.032%
+                        59.030%
                     </span>
             </li>
             <li style="animation-delay: 150ms;">
@@ -193,7 +193,7 @@ div.ellipsis {
                         TypeScript
                     </span>
                     <span class="percent">
-                        9.934%
+                        9.936%
                     </span>
             </li>
             <li style="animation-delay: 450ms;">
